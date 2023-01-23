@@ -7,4 +7,3 @@ exercícios feitos durante o curso de desenvolvimento web da Trybe:
 (3) back-end
 (4) ciência da computação
 
-(*)projetos
